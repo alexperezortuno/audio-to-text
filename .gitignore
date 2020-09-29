@@ -147,4 +147,5 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 *.wav
-
+audio_files/*.wav
+!audio_files/.gitkeep
